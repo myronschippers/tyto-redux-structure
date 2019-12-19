@@ -1,4 +1,4 @@
-# Redux Saga Intro
+# Redux Structure
 
 `npm install`
 
